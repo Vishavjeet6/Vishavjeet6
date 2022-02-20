@@ -17,7 +17,7 @@
 <br>
 
 ```python
-class AboutMe():
+class AboutMe:
     
   def __init__(self):
     self.name = "Vishavjeet Singh";
