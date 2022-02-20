@@ -10,6 +10,9 @@
 - 👯 Keen Learner
 - ⚡ Fun fact: I 💖 to code 24x7. 
 
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishavjeet6&label=Profile%20views&color=0e75b6&style=flat" alt="Vishavjeet" /> </p>
 
 <br>
 
