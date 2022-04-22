@@ -16,20 +16,6 @@
 
 <br>
 
-```python
-class AboutMe:
-    
-  def __init__(self):
-    self.name = "Vishavjeet Singh";
-    self.username = "Vishavjeet";
-    self.location = "Bangalore, India";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    AboutMe()
-```
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
